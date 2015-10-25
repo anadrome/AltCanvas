@@ -6,6 +6,7 @@ body {
 
 #canvas {
   border: 1px solid #CCC;
+  display: inline-block;
 }
 
 #time_stats {
